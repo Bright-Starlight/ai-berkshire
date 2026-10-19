@@ -16,7 +16,7 @@
 
 <!-- REPORTS-BANNER:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-> 📊 **日更内容是研究报告，全部在 [研究报告索引](reports/README.md)。** 2246 份报告 · 108 家公司 · 26 个专题，按公司与专题分组，更新至 2026-10-19。
+> 📊 **日更内容是研究报告，全部在 [研究报告索引](reports/README.md)。** 2258 份报告 · 108 家公司 · 26 个专题，按公司与专题分组，更新至 2026-10-19。
 
 <!-- REPORTS-BANNER:END -->
 
@@ -659,7 +659,7 @@ REM 可选：安装 Codex slash prompts
 
 <!-- REPORTS-INDEX:START 由 tools/reports_index.py 自动更新，勿手改 -->
 
-**📊 [全部研究索引 →](reports/README.md)** ｜ 2246 份报告 · 108 家公司 · 26 个专题 · 更新至 2026-10-19
+**📊 [全部研究索引 →](reports/README.md)** ｜ 2258 份报告 · 108 家公司 · 26 个专题 · 更新至 2026-10-19
 
 最近更新：
 

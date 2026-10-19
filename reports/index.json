@@ -1,6 +1,6 @@
 {
-  "count": 2436,
-  "published": 2246,
+  "count": 2448,
+  "published": 2258,
   "drafts": 190,
   "reports": [
     {
@@ -285,6 +285,17 @@
       "group": "泡泡玛特",
       "series": "",
       "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恺英网络（002517.SZ）巴菲特买入前 Checklist",
+      "path": "reports/恺英网络-checklist-20261019.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
       "date": "2026-10-19",
       "date_source": "文件名",
       "ticker": ""
@@ -782,6 +793,28 @@
       "type": "研究",
       "date": "2026-10-02",
       "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恺英网络（002517.SZ）投资研究报告",
+      "path": "reports/恺英网络投资研究报告-20260930.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恺英网络（002517.SZ）投资论文与持续追踪基准",
+      "path": "reports/恺英网络-thesis.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "正文",
       "ticker": ""
     },
     {
@@ -4228,10 +4261,54 @@
       "ticker": ""
     },
     {
+      "title": "青岛啤酒（A股 600600）投资研究",
+      "path": "reports/青岛啤酒投资研究报告.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
       "title": "茅台（白酒）产业链投资研究报告",
       "path": "reports/茅台/茅台产业链投资研究报告-20260719.md",
       "bucket": "公司",
       "group": "茅台",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "特宝生物（688278）研究报告",
+      "path": "reports/特宝生物研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "爱美客（300896）研究报告",
+      "path": "reports/爱美客研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "海天味业（603288）研究报告",
+      "path": "reports/海天味业投资研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
       "series": "",
       "type": "研究",
       "date": "2026-07-19",
@@ -4265,6 +4342,61 @@
       "path": "reports/汾酒/汾酒投资研究报告-20260719.md",
       "bucket": "公司",
       "group": "汾酒",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "恺英网络（002517）研究报告",
+      "path": "reports/恺英网络投资可行性研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "康弘药业（002773）研究报告",
+      "path": "reports/康弘药业研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "四家公司投资可行性研究报告",
+      "path": "reports/四家公司投资可行性研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "同花顺（300033）研究报告",
+      "path": "reports/同花顺研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "亿联网络（300628）研究报告",
+      "path": "reports/亿联网络研究报告-20260719.md",
+      "bucket": "专题",
+      "group": "综合与横评",
       "series": "",
       "type": "研究",
       "date": "2026-07-19",
