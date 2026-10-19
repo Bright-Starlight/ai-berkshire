@@ -1,8 +1,8 @@
 {
   "report": "快手-公众号-看懂快手03-20260906.md",
-  "review_date": "2026-09-06",
-  "sha256": "dcd6e8ca27c130f352e18e95470fc535df1ef323a52990f8d9ef0beebb7b6152",
-  "chinese_characters": 3624,
+  "review_date": "2026-09-07",
+  "sha256": "8ef81c25238e8c50f03ab0cc68724430d6c192c4ed79b6d2002ab83133ffa293",
+  "chinese_characters": 3949,
   "table_count": 5,
   "automatic_extract_count": 49,
   "sample_seed": 42,
@@ -93,14 +93,14 @@
     },
     {
       "id": 41,
-      "label": "保守 · 剩余资产，亿元",
-      "reported_value": 100.0,
+      "label": "保守 · 10%主口径",
+      "reported_value": 13.91,
       "unit": "",
-      "raw_text": "| 保守 | 100 | 15.37港元 | 17.21港元 |",
-      "line_number": 147,
-      "fetched_value": 100,
-      "fetched_source": "第二三篇-计算复核.json; financial_rigor calc + independent Decimal",
-      "classification": "独立剩余资产假设",
+      "raw_text": "| 保守 | 13.91港元 | 15.37港元 | 17.21港元 |",
+      "line_number": 151,
+      "fetched_value": 13.90778378765596,
+      "fetched_source": "第三篇-主估值复核-20260907.json",
+      "classification": "模型计算;不适用外部事实核验",
       "external_source_count": 0
     }
   ],
@@ -334,29 +334,32 @@
     {
       "label": "保守",
       "values": [
-        "100",
+        "13.91",
         "15.37",
         "17.21"
       ],
-      "status": "PASS"
+      "status": "PASS",
+      "source": "第三篇-主估值复核-20260907.json and 第二三篇-计算复核.json"
     },
     {
       "label": "基准",
       "values": [
-        "150",
+        "40.88",
         "46.45",
         "53.67"
       ],
-      "status": "PASS"
+      "status": "PASS",
+      "source": "第三篇-主估值复核-20260907.json and 第二三篇-计算复核.json"
     },
     {
       "label": "乐观",
       "values": [
-        "200",
+        "82.82",
         "96.30",
         "114.46"
       ],
-      "status": "PASS"
+      "status": "PASS",
+      "source": "第三篇-主估值复核-20260907.json and 第二三篇-计算复核.json"
     }
   ],
   "manual_core_fact_records": [
@@ -453,6 +456,18 @@
       "article_external_link_occurrences": 1,
       "body_external_link_occurrences": 0,
       "verification": "所有表格行和LaTeX公式逐字对照一致;原始链接与页码完整归档;抽检行号更新。未重新执行来源审计或估值预测。"
+    }
+  ],
+  "source_fact_review_date": "2026-09-06",
+  "primary_valuation_recalculation_source": "第三篇-主估值复核-20260907.json",
+  "valuation_revisions": [
+    {
+      "date": "2026-09-07",
+      "previous_sha256": "dcd6e8ca27c130f352e18e95470fc535df1ef323a52990f8d9ef0beebb7b6152",
+      "change": "明确主口径为10%人民币股权要求回报、基准约41港元;保守和乐观同步按10%复算。保留25港元以下观察线、8%/9%敏感性、原十期现金与剩余资产假设。",
+      "primary_value_hkd_per_share": "40.87828748161131081773899138045498204467",
+      "value_vs_buy_price": "25港元对40.8783港元约38.84%折价;33.66港元折价17.66%,上行价差21.44%;均不等于保证收益。",
+      "verification": "新增8项financial_rigor+Decimal复算;5表中前4表与上次版本逐字一致;新估值表全值核对;8项seed42抽检通过。原始来源核验不因模型计算而升级为全量双源。"
     }
   ]
 }

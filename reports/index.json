@@ -1,6 +1,789 @@
 {
-  "count": 2377,
+  "count": 2436,
+  "published": 2246,
+  "drafts": 190,
   "reports": [
+    {
+      "title": "七姐妹股份、非经常损益与净现金桥接复核",
+      "path": "reports/美股七姐妹-investment-team-20261019/evidence/shares-assets-review.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "evidence",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "美股七姐妹财务口径独立复核",
+      "path": "reports/美股七姐妹-investment-team-20261019/evidence/price-and-calendar-review.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "evidence",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "发布前审计与证据边界",
+      "path": "reports/美股七姐妹-investment-team-20261019/evidence/audit-summary.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "evidence",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "特斯拉（TSLA）独立投资研究：特斯拉已有汽车、储能和有限无人运营业务，但当前市值主要依靠尚未完整证明的自动驾驶与新业务现金",
+      "path": "reports/美股七姐妹-investment-team-20261019/07-特斯拉-TSLA-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "英伟达（NVDA）独立投资研究：英伟达仍拥有最强的AI计算系统优势之一，但不能再按完全不承担客户资本风险的供应商估值",
+      "path": "reports/美股七姐妹-investment-team-20261019/06-英伟达-NVDA-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Meta（META）独立投资研究：Meta的AI广告回报证据比许多纯AI叙事更直接，但前沿模型、数据中心和硬件投入远超已证明的收益范围",
+      "path": "reports/美股七姐妹-investment-team-20261019/05-Meta-META-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "亚马逊（AMZN）独立投资研究：亚马逊同时拥有购物闭环与云平台优势，但经营增长尚未等比例变成股东现金",
+      "path": "reports/美股七姐妹-investment-team-20261019/04-亚马逊-AMZN-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "谷歌（GOOGL）独立投资研究：谷歌的搜索、YouTube和云依然拥有强大变现基础；真正的估值分歧是AI改变每次交互利润后的长期现金",
+      "path": "reports/美股七姐妹-investment-team-20261019/03-谷歌-GOOGL-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "微软（MSFT）独立投资研究：微软的企业客户基础和工作流优势最扎实，但云增长正在消耗更多资本",
+      "path": "reports/美股七姐妹-investment-team-20261019/02-微软-MSFT-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "苹果（AAPL）独立投资研究：苹果仍是高质量消费科技生意，但当前价格要求远高于成熟硬件与服务组合的基准增长",
+      "path": "reports/美股七姐妹-investment-team-20261019/01-苹果-AAPL-研究报告.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-investment-team-20261019",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Alphabet（谷歌）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/谷歌/谷歌投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "谷歌",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "苹果（AAPL）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/苹果/苹果投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "苹果",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "英伟达（NVIDIA / NASDAQ: NVDA）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/英伟达/英伟达投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "英伟达",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "特斯拉（TSLA）独立投资研究：产品进步能否变成普通股东的现金回报？",
+      "path": "reports/美股七姐妹-20261019/特斯拉/特斯拉投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "特斯拉",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "数据抽检覆盖说明",
+      "path": "reports/美股七姐妹-20261019/特斯拉/audit-coverage.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "特斯拉",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "微软（MSFT）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/微软/微软投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "微软",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "亚马逊（AMZN）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/亚马逊/亚马逊投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "亚马逊",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "抽检审计说明",
+      "path": "reports/美股七姐妹-20261019/亚马逊/report-audit-notes.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "亚马逊",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "Meta 审计覆盖说明",
+      "path": "reports/美股七姐妹-20261019/Meta/audit-coverage.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "Meta",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "Meta Platforms（META）独立投资研究报告",
+      "path": "reports/美股七姐妹-20261019/Meta/Meta投资研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "美股七姐妹-20261019",
+      "series": "Meta",
+      "type": "研究",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "短剧与AI短剧深度研究报告",
+      "path": "reports/短剧与AI短剧研究-20261019/短剧与AI短剧深度研究报告-20261019.md",
+      "bucket": "专题",
+      "group": "短剧与AI短剧研究-20261019",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特：情绪需求、爆款接力与十年持久性证据",
+      "path": "reports/泡泡玛特深度研究-20261019/需求与风险证据.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特经营证据底稿",
+      "path": "reports/泡泡玛特深度研究-20261019/经营证据.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特（09992.HK）研究报告",
+      "path": "reports/泡泡玛特深度研究-20261019/泡泡玛特研究报告-20261019.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特市场、现金流与治理证据",
+      "path": "reports/泡泡玛特深度研究-20261019/市场与治理证据.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "审计说明",
+      "path": "reports/泡泡玛特深度研究-20261019/审计说明.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-19",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "财务表",
+      "path": "reports/七公司投资研究-20261002/腾讯/财务表.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "腾讯",
+      "type": "底稿",
+      "date": "2026-10-18",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "美团研究报告审计说明",
+      "path": "reports/七公司投资研究-20261002/美团/审计说明.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "美团",
+      "type": "底稿",
+      "date": "2026-10-18",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "财务表",
+      "path": "reports/七公司投资研究-20261002/拼多多/财务表.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "拼多多",
+      "type": "底稿",
+      "date": "2026-10-18",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "快手研究报告审计说明",
+      "path": "reports/七公司投资研究-20261002/快手/审计说明.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "快手",
+      "type": "底稿",
+      "date": "2026-10-18",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax 创始人访谈研究与结论复核",
+      "path": "reports/MINIMAX/MiniMax-创始人访谈研究与结论复核-20261018.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-18",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "收入增 283%、毛利率 17.9%：MiniMax 卖的是便宜的智能",
+      "path": "reports/MINIMAX/MiniMax-公众号-20261018.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-10-18",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手与可灵：创始人、技术选型、赛道与十年推演",
+      "path": "reports/快手/可灵与快手十年推演-20261017/快手与可灵-创始人技术赛道与十年推演-20261017.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "可灵与快手十年推演-20261017",
+      "type": "研究",
+      "date": "2026-10-17",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax 深度研究：创始人、技术路线、赛道与十年推演",
+      "path": "reports/MINIMAX/MiniMax-深度研究-创始人技术赛道与十年推演-20261017.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-10-17",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手与可灵：财务与经营证据底稿",
+      "path": "reports/快手/快手可灵深度研究-20261016/财务与经营证据.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "快手可灵深度研究-20261016",
+      "type": "深度系列",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "可灵技术与竞争证据：从模型领先到经济护城河",
+      "path": "reports/快手/快手可灵深度研究-20261016/技术与竞争证据.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "快手可灵深度研究-20261016",
+      "type": "深度系列",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手与可灵深度研究报告",
+      "path": "reports/快手/快手可灵深度研究-20261016/快手与可灵深度研究报告-20261016.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "快手可灵深度研究-20261016",
+      "type": "深度系列",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "审计说明",
+      "path": "reports/快手/快手可灵深度研究-20261016/审计说明.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "快手可灵深度研究-20261016",
+      "type": "底稿",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手与可灵：创始人、组织与治理证据",
+      "path": "reports/快手/快手可灵深度研究-20261016/创始人与治理证据.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "快手可灵深度研究-20261016",
+      "type": "深度系列",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax研究报告：来源、冲突与核验边界",
+      "path": "reports/MINIMAX/深度研究核验-20261016/来源与核验.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "深度研究核验-20261016",
+      "type": "底稿",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax（00100.HK）研究报告",
+      "path": "reports/MINIMAX/MiniMax研究报告-20261016.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "李录哥大对谈：来源与译文核查记录",
+      "path": "reports/李录/李录-哥大对谈-核查说明-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "从 AI 的边界，到投资的纪律：李录哥大对谈节选",
+      "path": "reports/李录/李录-公众号-哥大对谈-待原声复核-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "李录谈AI与投资：技术浪潮中的边界与纪律",
+      "path": "reports/李录/李录-公众号-AI与投资的边界与纪律-20261009.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-10-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "李录演讲与访谈合集",
+      "path": "reports/李录/李录演讲与访谈合集.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-07",
+      "date_source": "git",
+      "ticker": ""
+    },
+    {
+      "title": "李录：哥大商学院第36届格雷厄姆与多德年度论坛对谈实录（2026-10-05）",
+      "path": "reports/李录/李录-哥大格雷厄姆多德论坛对谈实录-20261005.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "李录2026年10月5日哥大对谈：长篇整理稿与原始来源索引",
+      "path": "reports/李录/李录-20261005哥大演讲-全文来源索引-20261012.md",
+      "bucket": "大师研究",
+      "group": "李录",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "贵州茅台（600519.SH）投资研究报告",
+      "path": "reports/茅台/茅台投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "茅台",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯控股（0700.HK）投资研究报告",
+      "path": "reports/腾讯/腾讯投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "美团（3690.HK）投资研究报告",
+      "path": "reports/美团/美团投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "美团",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特（9992.HK）投资研究报告",
+      "path": "reports/泡泡玛特/泡泡玛特投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "泡泡玛特",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "拼多多控股（PDD Holdings，PDD.US）投资研究报告",
+      "path": "reports/拼多多/拼多多投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "拼多多",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "快手科技（1024.HK）投资研究报告",
+      "path": "reports/快手/快手投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "快手",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "贵州茅台（600519.SH）研究报告",
+      "path": "reports/七公司投资研究-20261002/茅台/茅台研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "茅台",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "茅台核查边界",
+      "path": "reports/七公司投资研究-20261002/茅台/audit-notes.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "茅台",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯（0700.HK）研究报告",
+      "path": "reports/七公司投资研究-20261002/腾讯/腾讯研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "腾讯",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "审计边界与复算记录",
+      "path": "reports/七公司投资研究-20261002/腾讯/审计说明.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "腾讯",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "美团（03690.HK）研究报告",
+      "path": "reports/七公司投资研究-20261002/美团/美团研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "美团",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "来源登记",
+      "path": "reports/七公司投资研究-20261002/泡泡玛特/证据/来源登记.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "泡泡玛特",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特（9992.HK）研究报告",
+      "path": "reports/七公司投资研究-20261002/泡泡玛特/泡泡玛特研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "泡泡玛特",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特研究核验状态",
+      "path": "reports/七公司投资研究-20261002/泡泡玛特/审计状态.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "泡泡玛特",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "泡泡玛特历史现金流补核",
+      "path": "reports/七公司投资研究-20261002/泡泡玛特/历史现金流补核.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "泡泡玛特",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "七公司研究交付与核查记录",
+      "path": "reports/七公司投资研究-20261002/核查记录.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "拼多多（PDD）研究报告",
+      "path": "reports/七公司投资研究-20261002/拼多多/拼多多研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "拼多多",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "审计边界与复算记录",
+      "path": "reports/七公司投资研究-20261002/拼多多/审计说明.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "拼多多",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "快手（01024.HK）研究报告",
+      "path": "reports/七公司投资研究-20261002/快手/快手研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "快手",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "七公司投资研究：横向总览",
+      "path": "reports/七公司投资研究-20261002/七公司研究总览-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "来源登记",
+      "path": "reports/七公司投资研究-20261002/MiniMax/证据/来源登记.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "MiniMax",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax研究核验状态",
+      "path": "reports/七公司投资研究-20261002/MiniMax/审计状态.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "MiniMax",
+      "type": "底稿",
+      "date": "2026-10-02",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax（0100.HK）研究报告",
+      "path": "reports/七公司投资研究-20261002/MiniMax/MiniMax研究报告-20261002.md",
+      "bucket": "专题",
+      "group": "七公司投资研究-20261002",
+      "series": "MiniMax",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "MiniMax（稀宇科技）投资研究报告",
+      "path": "reports/MINIMAX/MiniMax投资研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "MiniMax",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "除了你自己，没人关心你的成本价",
       "path": "reports/公众号-除了你自己没人关心你的成本价-20260928.md",
@@ -26,10 +809,10 @@
     {
       "title": "来源与证据边界",
       "path": "reports/智能廉价时代稀缺性研究-20260926/sources.md",
-      "bucket": "公司",
+      "bucket": "专题",
       "group": "智能廉价时代稀缺性研究-20260926",
       "series": "",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-26",
       "date_source": "文件名",
       "ticker": ""
@@ -37,10 +820,10 @@
     {
       "title": "审计说明",
       "path": "reports/智能廉价时代稀缺性研究-20260926/audit-notes.md",
-      "bucket": "公司",
+      "bucket": "专题",
       "group": "智能廉价时代稀缺性研究-20260926",
       "series": "",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-26",
       "date_source": "文件名",
       "ticker": ""
@@ -117,7 +900,7 @@
       "bucket": "公司",
       "group": "茅台",
       "series": "moutai-pricing-capacity-20260925",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-25",
       "date_source": "文件名",
       "ticker": ""
@@ -128,7 +911,7 @@
       "bucket": "公司",
       "group": "茅台",
       "series": "moutai-demand-20260925",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-25",
       "date_source": "文件名",
       "ticker": ""
@@ -150,7 +933,7 @@
       "bucket": "公司",
       "group": "美团",
       "series": "AI利润模型-20260925",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-25",
       "date_source": "文件名",
       "ticker": ""
@@ -216,7 +999,7 @@
       "bucket": "公司",
       "group": "拼多多",
       "series": "AI利润模型-20260924",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-24",
       "date_source": "文件名",
       "ticker": ""
@@ -255,7 +1038,7 @@
       "ticker": ""
     },
     {
-      "title": "大模型请了更强的老师，成功率从 78% 掉到 63%",
+      "title": "harness 自进化的几篇论文",
       "path": "reports/AI产业研究/公众号-不动权重的训练-老师更强学生反而掉15分-20260922.md",
       "bucket": "专题",
       "group": "AI产业研究",
@@ -387,28 +1170,6 @@
       "ticker": ""
     },
     {
-      "title": "数据核查与适用边界",
-      "path": "reports/跨市场确定性筛选-20260907/audit-notes.md",
-      "bucket": "公司",
-      "group": "跨市场确定性筛选-20260907",
-      "series": "",
-      "type": "筛选",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "跨市场优质股票筛选研究报告",
-      "path": "reports/跨市场确定性-funnel-20260907.md",
-      "bucket": "专题",
-      "group": "综合与横评",
-      "series": "",
-      "type": "筛选",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
       "title": "贵州茅台护城河、文化、需求与十年利润研究报告",
       "path": "reports/茅台/贵州茅台护城河文化需求与十年利润研究报告-20260907.md",
       "bucket": "公司",
@@ -436,84 +1197,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "商业模式与十年利润-20260907",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "贵州茅台现金流质量检查",
-      "path": "reports/持仓现金流质量检查-20260907/茅台.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "腾讯与拼多多：利润的现金含量研究",
-      "path": "reports/持仓现金流质量检查-20260907/腾讯与拼多多.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "泡泡玛特与MiniMax现金流质量检查",
-      "path": "reports/持仓现金流质量检查-20260907/泡泡玛特与MiniMax.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "本轮证据索引",
-      "path": "reports/持仓现金流质量检查-20260907/泡泡MiniMax证据/来源索引.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "泡泡MiniMax证据",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "正文",
-      "ticker": ""
-    },
-    {
-      "title": "核验说明",
-      "path": "reports/持仓现金流质量检查-20260907/核验说明.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
       "type": "底稿",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "实盘持仓与茅台现金流质量研究报告",
-      "path": "reports/持仓现金流质量检查-20260907/持仓与茅台现金流质量研究报告-20260907.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
-      "type": "研究",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "快手与美团现金流质量检查",
-      "path": "reports/持仓现金流质量检查-20260907/快手与美团.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "",
-      "type": "研究",
       "date": "2026-09-07",
       "date_source": "文件名",
       "ticker": ""
@@ -546,7 +1230,7 @@
       "bucket": "专题",
       "group": "腾讯与快手-看懂公司-20260906",
       "series": "",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -700,7 +1384,7 @@
       "bucket": "公司",
       "group": "腾讯",
       "series": "《看懂腾讯》-20260906",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -854,7 +1538,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260906",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -909,7 +1593,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260906",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -920,7 +1604,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -931,7 +1615,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -942,7 +1626,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -953,7 +1637,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -964,7 +1648,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -975,7 +1659,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -986,7 +1670,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -997,7 +1681,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1008,7 +1692,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1019,7 +1703,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1030,7 +1714,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1041,7 +1725,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1052,7 +1736,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1063,7 +1747,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1074,7 +1758,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1085,7 +1769,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1096,7 +1780,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1107,7 +1791,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1118,7 +1802,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1129,7 +1813,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1140,7 +1824,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1151,7 +1835,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1162,7 +1846,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1173,7 +1857,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1184,7 +1868,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1195,7 +1879,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1206,7 +1890,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1217,7 +1901,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1228,7 +1912,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1239,7 +1923,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1250,7 +1934,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1261,7 +1945,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1272,7 +1956,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1283,7 +1967,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1294,7 +1978,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1305,7 +1989,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1316,7 +2000,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1327,7 +2011,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1338,7 +2022,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1349,7 +2033,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1360,7 +2044,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1371,7 +2055,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1382,7 +2066,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1393,7 +2077,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1404,7 +2088,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1415,7 +2099,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1426,7 +2110,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1437,7 +2121,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1448,7 +2132,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1459,7 +2143,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1470,7 +2154,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1481,7 +2165,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1492,7 +2176,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1503,7 +2187,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1514,7 +2198,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1525,7 +2209,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1536,7 +2220,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "evidence",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "git",
       "ticker": ""
@@ -1547,7 +2231,7 @@
       "bucket": "专题",
       "group": "大模型全景对比-20260906",
       "series": "",
-      "type": "横评对比",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -1635,7 +2319,7 @@
       "bucket": "专题",
       "group": "七公司商业质量与十年利润-20260906",
       "series": "泡泡MiniMax证据",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1690,7 +2374,7 @@
       "bucket": "专题",
       "group": "七公司五年回报与资金配置-20260906",
       "series": "腾讯拼多多证据",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1723,7 +2407,7 @@
       "bucket": "专题",
       "group": "七公司五年回报与资金配置-20260906",
       "series": "泡泡MiniMax五年证据",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1767,7 +2451,7 @@
       "bucket": "专题",
       "group": "RSI-survey-20260906",
       "series": "research",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1778,7 +2462,7 @@
       "bucket": "专题",
       "group": "RSI-survey-20260906",
       "series": "research",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1789,7 +2473,7 @@
       "bucket": "专题",
       "group": "RSI-survey-20260906",
       "series": "research",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1800,7 +2484,7 @@
       "bucket": "专题",
       "group": "RSI-survey-20260906",
       "series": "research",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "正文",
       "ticker": ""
@@ -1866,7 +2550,7 @@
       "bucket": "专题",
       "group": "AI产业研究",
       "series": "中美基模公司终局与MiniMax差异化研究报告-20260906-核查",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -2317,7 +3001,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2328,7 +3012,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2350,7 +3034,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2361,7 +3045,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2372,7 +3056,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "财报",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2383,7 +3067,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2438,7 +3122,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2504,7 +3188,7 @@
       "bucket": "公司",
       "group": "五粮液",
       "series": "《看懂五粮液》-20260822",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-22",
       "date_source": "文件名",
       "ticker": ""
@@ -2570,7 +3254,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260819",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-19",
       "date_source": "文件名",
       "ticker": ""
@@ -2581,7 +3265,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260819",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-19",
       "date_source": "文件名",
       "ticker": ""
@@ -2614,7 +3298,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260819",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-19",
       "date_source": "文件名",
       "ticker": ""
@@ -3087,7 +3771,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260802",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-02",
       "date_source": "文件名",
       "ticker": ""
@@ -3153,7 +3837,7 @@
       "bucket": "公司",
       "group": "阿里巴巴",
       "series": "《看懂阿里巴巴》-20260801",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-01",
       "date_source": "文件名",
       "ticker": ""
@@ -3164,7 +3848,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260801",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-01",
       "date_source": "文件名",
       "ticker": ""
@@ -3230,7 +3914,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260801",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-01",
       "date_source": "文件名",
       "ticker": ""
@@ -3296,7 +3980,7 @@
       "bucket": "公司",
       "group": "理想汽车",
       "series": "《看懂理想汽车》-20260801",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-08-01",
       "date_source": "文件名",
       "ticker": ""
@@ -3637,7 +4321,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3648,7 +4332,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3659,7 +4343,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3670,7 +4354,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3681,7 +4365,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3692,7 +4376,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "正文",
       "ticker": ""
@@ -3758,7 +4442,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "文件名",
       "ticker": ""
@@ -3890,7 +4574,7 @@
       "bucket": "公司",
       "group": "智谱",
       "series": "《看懂智谱AI》-20260714",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-14",
       "date_source": "文件名",
       "ticker": ""
@@ -3945,7 +4629,7 @@
       "bucket": "公司",
       "group": "蚂蚁数科",
       "series": "《看懂蚂蚁数科》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-13",
       "date_source": "git",
       "ticker": ""
@@ -4484,7 +5168,7 @@
       "bucket": "公司",
       "group": "晶泰科技",
       "series": "《看懂晶泰科技》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-13",
       "date_source": "git",
       "ticker": ""
@@ -4803,7 +5487,7 @@
       "bucket": "公司",
       "group": "快手",
       "series": "《看懂快手》-20260711",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-07-11",
       "date_source": "文件名",
       "ticker": ""
@@ -6123,7 +6807,7 @@
       "bucket": "公司",
       "group": "阿里巴巴",
       "series": "《看懂阿里巴巴》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-06-24",
       "date_source": "git",
       "ticker": ""
@@ -6970,7 +7654,7 @@
       "bucket": "公司",
       "group": "Marvell",
       "series": "",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-06-23",
       "date_source": "正文",
       "ticker": ""
@@ -7102,7 +7786,7 @@
       "bucket": "公司",
       "group": "阿里巴巴",
       "series": "《看懂阿里巴巴》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-06-23",
       "date_source": "git",
       "ticker": ""
@@ -12778,7 +13462,7 @@
       "bucket": "公司",
       "group": "美团",
       "series": "《看懂美团》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-23",
       "date_source": "git",
       "ticker": ""
@@ -13009,7 +13693,7 @@
       "bucket": "公司",
       "group": "蚂蚁集团",
       "series": "《看懂蚂蚁集团》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13174,7 +13858,7 @@
       "bucket": "公司",
       "group": "英伟达",
       "series": "《看懂英伟达》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13284,7 +13968,7 @@
       "bucket": "公司",
       "group": "百度",
       "series": "《看懂百度》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13372,7 +14056,7 @@
       "bucket": "公司",
       "group": "理想汽车",
       "series": "《看懂理想汽车》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13482,7 +14166,7 @@
       "bucket": "公司",
       "group": "海尔智家",
       "series": "《看懂海尔智家》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13504,7 +14188,7 @@
       "bucket": "公司",
       "group": "泸州老窖",
       "series": "《看懂泸州老窖》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13779,7 +14463,7 @@
       "bucket": "公司",
       "group": "平安集团",
       "series": "《看懂平安集团》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -13977,7 +14661,7 @@
       "bucket": "公司",
       "group": "众安在线",
       "series": "《看懂众安在线》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -14076,7 +14760,7 @@
       "bucket": "公司",
       "group": "lululemon",
       "series": "《看懂lululemon》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -14120,7 +14804,7 @@
       "bucket": "公司",
       "group": "Uber",
       "series": "《看懂Uber》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-22",
       "date_source": "git",
       "ticker": ""
@@ -14549,7 +15233,7 @@
       "bucket": "公司",
       "group": "长光辰芯",
       "series": "《看懂长光辰芯》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14560,7 +15244,7 @@
       "bucket": "公司",
       "group": "茅台",
       "series": "《看懂茅台》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14604,7 +15288,7 @@
       "bucket": "公司",
       "group": "耳朵时间",
       "series": "《看懂耳朵时间》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14626,7 +15310,7 @@
       "bucket": "公司",
       "group": "生数科技",
       "series": "《看懂生数科技》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14637,7 +15321,7 @@
       "bucket": "公司",
       "group": "灵境万维",
       "series": "《看懂灵境万维》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14659,7 +15343,7 @@
       "bucket": "公司",
       "group": "永新股份",
       "series": "《看懂永新股份》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14681,7 +15365,7 @@
       "bucket": "公司",
       "group": "暖哇科技",
       "series": "《看懂暖哇科技》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14692,7 +15376,7 @@
       "bucket": "公司",
       "group": "智元机器人",
       "series": "《看懂智元机器人》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14714,7 +15398,7 @@
       "bucket": "公司",
       "group": "思格新能",
       "series": "《看懂思格新能》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14725,7 +15409,7 @@
       "bucket": "公司",
       "group": "宇树科技",
       "series": "《看懂宇树科技》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14736,7 +15420,7 @@
       "bucket": "公司",
       "group": "五粮液",
       "series": "《看懂五粮液》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14769,7 +15453,7 @@
       "bucket": "公司",
       "group": "Mastercard",
       "series": "《看懂万事达卡》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-21",
       "date_source": "git",
       "ticker": ""
@@ -14846,7 +15530,7 @@
       "bucket": "公司",
       "group": "腾讯音乐",
       "series": "《看懂TME》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-19",
       "date_source": "git",
       "ticker": ""
@@ -14934,7 +15618,7 @@
       "bucket": "公司",
       "group": "网易",
       "series": "《看懂网易》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-19",
       "date_source": "git",
       "ticker": ""
@@ -21413,7 +22097,7 @@
       "bucket": "公司",
       "group": "泡泡玛特",
       "series": "",
-      "type": "底稿",
+      "type": "研究",
       "date": "2026-05-16",
       "date_source": "文件名",
       "ticker": ""
@@ -22062,7 +22746,7 @@
       "bucket": "公司",
       "group": "拼多多",
       "series": "《看懂拼多多》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-15",
       "date_source": "git",
       "ticker": ""
@@ -22843,7 +23527,7 @@
       "bucket": "公司",
       "group": "腾讯",
       "series": "《看懂腾讯》",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-05-05",
       "date_source": "正文",
       "ticker": ""
@@ -24988,7 +25672,7 @@
       "bucket": "公司",
       "group": "美团",
       "series": "",
-      "type": "底稿",
+      "type": "研究",
       "date": "2026-04-11",
       "date_source": "文件名",
       "ticker": ""
@@ -25643,17 +26327,6 @@
       "ticker": ""
     },
     {
-      "title": "李录演讲与访谈合集",
-      "path": "reports/李录/李录演讲与访谈合集.md",
-      "bucket": "大师研究",
-      "group": "李录",
-      "series": "",
-      "type": "研究",
-      "date": "2026-04-09",
-      "date_source": "git",
-      "ticker": ""
-    },
-    {
       "title": "李录投资收益记录",
       "path": "reports/李录/李录投资收益记录.md",
       "bucket": "大师研究",
@@ -25945,7 +26618,7 @@
       "bucket": "专题",
       "group": "综合与横评",
       "series": "",
-      "type": "底稿",
+      "type": "横评对比",
       "date": "2026-04-08",
       "date_source": "文件名",
       "ticker": ""
@@ -26124,28 +26797,6 @@
       "type": "财报",
       "date": "2024-11-21",
       "date_source": "正文",
-      "ticker": ""
-    },
-    {
-      "title": "table",
-      "path": "reports/持仓现金流质量检查-20260907/茅台证据/table.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "茅台证据",
-      "type": "研究",
-      "date": "",
-      "date_source": "缺失",
-      "ticker": ""
-    },
-    {
-      "title": "audit_scope",
-      "path": "reports/持仓现金流质量检查-20260907/快手美团证据/audit_scope.md",
-      "bucket": "公司",
-      "group": "持仓现金流质量检查-20260907",
-      "series": "快手美团证据",
-      "type": "研究",
-      "date": "",
-      "date_source": "缺失",
       "ticker": ""
     }
   ]
